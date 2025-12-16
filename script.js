@@ -1,8 +1,8 @@
 // Array of image paths
 const images = [
-  'images/image1.jpg',
-  'images/image2.jpg',
-  'images/image3.jpg'
+  'images/5ae60826d132.jpg',
+  'images/2df571c30279.jpg',
+  'images/b9173b7b3fe9.jpg'
 ];
 
 let currentIndex = 0;
@@ -15,3 +15,4 @@ function nextSlide() {
 
 // Change image every 3 seconds
 setInterval(nextSlide, 3000);
+
